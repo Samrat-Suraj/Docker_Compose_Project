@@ -15,7 +15,7 @@ Make sure Docker and Docker Compose are installed:
 ```bash
 docker --version
 docker-compose --version
-````
+```
 
 ---
 
