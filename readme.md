@@ -7,6 +7,7 @@
 This project demonstrates how to set up and run a Docker Compose-based environment with a bind-mounted volume and a custom build.
 
 ---
+````
 
 ## 🐳 Prerequisites
 
@@ -16,7 +17,7 @@ Make sure Docker and Docker Compose are installed:
 docker --version
 docker-compose --version
 ```
-````
+
 
 ---
 
