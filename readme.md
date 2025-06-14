@@ -3,10 +3,6 @@
 
 ````markdown
 # Docker Compose Project
-
-This project demonstrates how to set up and run a Docker Compose-based environment with a bind-mounted volume and a custom build.
-
----
 ````
 
 ## 🐳 Prerequisites
