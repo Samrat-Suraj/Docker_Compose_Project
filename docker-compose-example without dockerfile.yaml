@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  web:
+    container_name: forkfly-ctl
+    image: node:18
+    working_dir: /app
+    ports:
+      - "5173:5173"
+    volumes:
+      - node-app-volume:/app
+      
+    command: /bin/bash -c "npm run dev"
+
+volumes:
+  node-app-volume:
